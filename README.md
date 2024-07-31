@@ -1,13 +1,10 @@
 ## lazyScripts
 
-Honestly I am really lazy and sick of having to type things for installing certain projects. 
-Some of you may have the same idea, so here you go!
+Quick scripts for installation of various projects, tools, and fixing errors. 
 
-**Make sure you chmod +x [file] so that they can actually run correctly**
+**Make sure you chmod +x [file] so that they can run.**
 
-**_Also if your machine breaks because of these I am not taking any blame for it._**
-
-!!!This code is distributed as is and if you don't trust it, don't use it!!!
+**_This code is distributed as is and if you don't trust it, don't use it_**
 
 ### What each script does:
 
@@ -67,3 +64,15 @@ Play a classic game of Russian Roulette with your file system. Thank you @tyr4n7
 
 #### jadx_install.sh
 Install the jadx command and the jadx-gui tool for Ubuntu. Thanks to **Lindevs** the original article with these commands can be found [here](https://lindevs.com/install-jadx-on-ubuntu/).
+
+#### fix_corrupt_zsh.sh
+Fix a corrupt ZSH file. Original source of the commands is [here](https://shapeshed.com/zsh-corrupt-history-file/).
+
+#### kali_do.sh
+Configuration of a Kali Linux instance within Digital Ocean. Original documentation for the commands can be found [here](https://www.kali.org/docs/cloud/digitalocean/).
+
+#### ubnt_deskenv.sh
+Installation of a Ubuntu desktop environment along with TightVNC Server.
+
+#### vbox_clip.sh
+Attempt to restart VirtualBox Guest Additions clipboard service. 
