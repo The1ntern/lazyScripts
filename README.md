@@ -2,7 +2,7 @@
 
 Quick scripts for installation of various projects, tools, and fixing errors. 
 
-**Make sure you chmod +x [file] so that they can run.**
+**Make sure you `chmod +x {/path/to/file}.sh` so that they can run.**
 
 **_This code is distributed as is and if you don't trust it, don't use it_**
 
